@@ -1,0 +1,16 @@
+AR0FVFHL4DMQ05N:Bootcamp ppereyra$ mkdir archivos
+AR0FVFHL4DMQ05N:Bootcamp ppereyra$ cd archivos
+AR0FVFHL4DMQ05N:archivos ppereyra$ touch prueba.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ touch hola.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ ls
+hola.txt	prueba.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ mv hola.txt prueba2.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ ls
+prueba.txt	prueba2.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ mv prueba.txt prueba1.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ ls
+prueba1.txt	prueba2.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ rm prueba2.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ ls
+prueba1.txt
+AR0FVFHL4DMQ05N:archivos ppereyra$ clear
